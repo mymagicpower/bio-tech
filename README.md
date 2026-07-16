@@ -80,7 +80,4 @@ Includes chemical molecular toolkits, DNA toolkits, DNA sequence search, molecul
 
 #### 2. AI + Quantum Computing
 
-- GitHub: https://github.com/mymagicpower/qubits     
-
-
-- GitHub: https://github.com/mymagicpower/easy_AI_apps  
+- GitHub: https://github.com/mymagicpower/qubits

@@ -92,10 +92,4 @@
 
 - 官网: https://www.qubits.top/      
 - Gitee:  https://gitee.com/mymagicpower/qubits     
-- GitHub: https://github.com/mymagicpower/qubits     
-
-
-
-- 官网: https://www.aiarts.top/           
-- Gitee:  https://gitee.com/mymagicpower/easy_AI_apps        
-- GitHub: https://github.com/mymagicpower/easy_AI_apps  
+- GitHub: https://github.com/mymagicpower/qubits
