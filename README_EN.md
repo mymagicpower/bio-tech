@@ -75,22 +75,13 @@ Includes chemical molecular toolkits, DNA toolkits, DNA sequence search, molecul
 
 
 #### 1. AI Accelerator Suite
-<div align="left">
-<img src="images/logo.png"  width = "150"  />
-</div>
 
 - GitHub: https://github.com/mymagicpower/AIAS
 
 #### 2. AI + Quantum Computing
-<div align="left">
-<img src="https://qubits.oss-cn-shanghai.aliyuncs.com/images/logo.png"  width = "150"  />
-</div>
 
 - GitHub: https://github.com/mymagicpower/qubits     
 
 #### 3. AI Desktop Toolset - A Simple and Easy-to-use AI Desktop Toolset
-<div align="left">
-<img src="https://aiart.oss-cn-shanghai.aliyuncs.com/images/logo.png"  width = "200"  />
-</div>
 
 - GitHub: https://github.com/mymagicpower/easy_AI_apps  

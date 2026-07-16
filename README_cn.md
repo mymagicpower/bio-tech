@@ -83,18 +83,12 @@
 
 
 #### 1. 人工智能加速器套件
-<div align="left">
-<img src="images/logo.png"  width = "150"  />
-</div>
 
 - 官网: https://www.aias.top/
 - Gitee:  https://gitee.com/mymagicpower/AIAS  
 - GitHub: https://github.com/mymagicpower/AIAS
 
 #### 2. AI + 量子计算
-<div align="left">
-<img src="https://qubits.oss-cn-shanghai.aliyuncs.com/images/logo.png"  width = "150"  />
-</div>
 
 - 官网: https://www.qubits.top/      
 - Gitee:  https://gitee.com/mymagicpower/qubits     
