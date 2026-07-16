@@ -4,7 +4,7 @@
 This example provides molecular search, supporting the upload of smi files, using RDKit to extract molecular features, and performing subsequent retrieval based on Milvus vector engine.
 
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/6_biomedicine/molecular_search/arc.png"  width = "600"/>
+<img src="../images/molecular_search/arc.png"  width = "600"/>
 </div> 
 
 ### Engine features
@@ -25,12 +25,12 @@ RDKit is an open-source toolkit for cheminformatics. It uses machine learning me
   <tr>
     <td>
       <div align="center">
-      <img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/6_biomedicine/molecular_search/rdkit.jpeg"  width = "300"  />
+      <img src="../images/molecular_search/rdkit.jpeg"  width = "300"  />
       </div>
     </td>
     <td>
       <div align="center">
-      <img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/6_biomedicine/molecular_search/mol.png"  width = "300"  />
+      <img src="../images/molecular_search/mol.png"  width = "300"  />
       </div>
     </td>
   </tr>
@@ -38,7 +38,7 @@ RDKit is an open-source toolkit for cheminformatics. It uses machine learning me
 
 #### Vector engine indexing strategy
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/6_biomedicine/molecular_search/milvus.png"  width = "600"/>
+<img src="../images/molecular_search/milvus.png"  width = "600"/>
 </div> 
 
 
@@ -183,7 +183,7 @@ search:
       Wait for the file to be parsed, feature extraction, and feature storage in the vector engine. The progress information can be viewed through the console.
 
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/6_biomedicine/molecular_search/storage.png"  width = "600"/>
+<img src="../images/molecular_search/storage.png"  width = "600"/>
 </div> 
 
 - Molecular search
@@ -193,7 +193,7 @@ search:
 P(=O)(OC[C@H]1O[C@@H](n2c3ncnc(N)c3nc2)[C@H](O)[C@@H]1F)(O)O
 ```
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/6_biomedicine/molecular_search/search.png"  width = "600"/>
+<img src="../images/molecular_search/search.png"  width = "600"/>
 </div> 
 
 ## 5. Help information
@@ -201,7 +201,7 @@ P(=O)(OC[C@H]1O[C@@H](n2c3ncnc(N)c3nc2)[C@H](O)[C@@H]1F)(O)O
 - swagger interface document:
 http://localhost:8089/swagger-ui.html
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/6_biomedicine/molecular_search/swagger.png"  width = "500"/>
+<img src="../images/molecular_search/swagger.png"  width = "500"/>
 </div> 
 
 - Reset the vector engine (clear data):

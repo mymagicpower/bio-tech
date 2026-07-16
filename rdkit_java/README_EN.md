@@ -5,7 +5,7 @@ RDKit is an open source toolkit for chemical informatics, based on 2D and 3D mol
 It is a very practical library that connects chemistry with machine learning. It can convert between many types of chemical files such as mol2, mol, Smiles, sdf, etc., and display them in 2D, 3D and other forms for developers to use.
 Here is a Java implementation example.
 
-![img](https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/biology_sdks/rdkit.jpeg)
+![img](../images/biology_sdks/rdkit.jpeg)
 
 
 - Read and write molecules
@@ -13,7 +13,7 @@ Here is a Java implementation example.
 - Feature extraction & molecule similarity calculation
 The similarity calculation provides examples of three calculation methods.
 
-![img](https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/biology_sdks/mol.png)
+![img](../images/biology_sdks/mol.png)
 
 ## Running the example - SimpleSmilesExample
 After running successfully, the command line should see the following information:
@@ -26,7 +26,7 @@ After running successfully, the command line should see the following informatio
 
 ```
 Save the molecular image:
-![svg](https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/biology_sdks/svg.png)
+![svg](../images/biology_sdks/svg.png)
 
 
 ### Dependency library download & configuration environment variable

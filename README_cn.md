@@ -21,7 +21,7 @@
       </td>    	
       <td>
         <div align="center">
-        <img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/biology_sdks/mol.png" width = "400px"/>
+        <img src="images/biology_sdks/mol.png" width = "400px"/>
         </div>
       </td>
     </tr> 
@@ -34,7 +34,7 @@
       </td>    	
       <td>
         <div align="center">
-        <img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/biology_sdks/dna.jpeg"  width = "400px"/>
+        <img src="images/biology_sdks/dna.jpeg"  width = "400px"/>
         </div>
       </td>
     </tr>                                     
@@ -56,7 +56,7 @@
       </td>    	
       <td>
         <div align="center">
-        <img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/6_biomedicine/molecular_search/arc.png" width = "400px"/>
+        <img src="images/molecular_search/arc.png" width = "400px"/>
         </div>
       </td>
     </tr> 
@@ -69,7 +69,7 @@
       </td>    	
       <td>
         <div align="center">
-        <img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/6_biomedicine/dna_sequence_search/arc.png"  width = "400px"/>
+        <img src="images/dna_sequence_search/arc.png"  width = "400px"/>
         </div>
       </td>
     </tr>                                           
@@ -84,7 +84,7 @@
 
 #### 1. 人工智能加速器套件
 <div align="left">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/images/logo.png"  width = "150"  />
+<img src="images/logo.png"  width = "150"  />
 </div>
 
 - 官网: https://www.aias.top/

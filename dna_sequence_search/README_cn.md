@@ -5,7 +5,7 @@ http://aias.top/
 本例子提供了DNA序列搜索，支持上传文件文件，使用spark mlib计算模型提取特征，并基于milvus向量引擎进行后续检索。
 
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/6_biomedicine/dna_sequence_search/arc.png"  width = "600"/>
+<img src="../images/dna_sequence_search/arc.png"  width = "600"/>
 </div> 
 
 #### 引擎特性
@@ -31,7 +31,7 @@ DNA序列测定方法有光学测序和芯片测序两种。
 超参数minDF则指定词汇表中的词语至少要在多少个不同文档中出现。
 模型训练，推理使用了spark mlib:
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/6_biomedicine/dna_sequence_search/spark_mlib.png"  width = "400"/>
+<img src="../images/dna_sequence_search/spark_mlib.png"  width = "400"/>
 </div> 
 
 - [算法详细介绍](http://spark.apache.org/docs/latest/ml-features.html#countvectorizer)
@@ -39,7 +39,7 @@ DNA序列测定方法有光学测序和芯片测序两种。
 
 #### 向量引擎索引策略
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/6_biomedicine/dna_sequence_search/milvus.png"  width = "600"/>
+<img src="../images/dna_sequence_search/milvus.png"  width = "600"/>
 </div> 
 
 
@@ -149,7 +149,7 @@ search:
 2). 点击特征提取按钮. 
 等待文件解析，模型训练，特征提取，特征存入向量引擎。通过console可以看到进度信息。
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/6_biomedicine/dna_sequence_search/storage.png"  width = "600"/>
+<img src="../images/dna_sequence_search/storage.png"  width = "600"/>
 </div> 
 
 - DNA序列搜索
@@ -158,14 +158,14 @@ search:
 ATGCCCCAACTAAATACTACCGTATGGCCCACCATAATTACCCCCATACTCCTTACACTATTCCTCATCACCCAACTAAAAATATTAAACACAAACTACCACCTACCTCCCTCACCAAAGCCCATAAAAATAAAAAATTATAACAAACCCTGAGAACCAAAATGAACGAAAATCTGTTCGCTTCATTCATTGCCCCCACAATCCTAG
 ```
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/6_biomedicine/dna_sequence_search/search.png"  width = "600"/>
+<img src="../images/dna_sequence_search/search.png"  width = "600"/>
 </div> 
 
 ## 5. 帮助信息
 - swagger接口文档:  
 http://localhost:8089/swagger-ui.html
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/6_biomedicine/dna_sequence_search/swagger.png"  width = "600"/>
+<img src="../images/dna_sequence_search/swagger.png"  width = "600"/>
 </div> 
 
 - 初始化向量引擎(清空数据): 

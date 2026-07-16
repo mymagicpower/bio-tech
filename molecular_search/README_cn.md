@@ -5,7 +5,7 @@ http://aias.top/
 本例子提供了分子搜索，支持上传smi文件文件，使用RDKit提取分子特征，并基于milvus向量引擎进行后续检索。
 
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/6_biomedicine/molecular_search/arc.png"  width = "600"/>
+<img src="../images/molecular_search/arc.png"  width = "600"/>
 </div> 
 
 #### 引擎特性
@@ -26,12 +26,12 @@ RDKit是一个用于化学信息学的开源工具包，基于对化合物2D和3
   <tr>
     <td>
       <div align="center">
-      <img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/6_biomedicine/molecular_search/rdkit.jpeg"  width = "300"  />
+      <img src="../images/molecular_search/rdkit.jpeg"  width = "300"  />
       </div>
     </td>
     <td>
       <div align="center">
-      <img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/6_biomedicine/molecular_search/mol.png"  width = "300"  />
+      <img src="../images/molecular_search/mol.png"  width = "300"  />
       </div>
     </td>
   </tr>
@@ -39,7 +39,7 @@ RDKit是一个用于化学信息学的开源工具包，基于对化合物2D和3
 
 #### 向量引擎索引策略
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/6_biomedicine/molecular_search/milvus.png"  width = "600"/>
+<img src="../images/molecular_search/milvus.png"  width = "600"/>
 </div> 
 
 
@@ -178,7 +178,7 @@ search:
 2). 点击特征提取按钮. 
 等待文件解析，特征提取，特征存入向量引擎。通过console可以看到进度信息。
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/6_biomedicine/molecular_search/storage.png"  width = "600"/>
+<img src="../images/molecular_search/storage.png"  width = "600"/>
 </div> 
 
 - 分子搜索
@@ -187,14 +187,14 @@ search:
 P(=O)(OC[C@H]1O[C@@H](n2c3ncnc(N)c3nc2)[C@H](O)[C@@H]1F)(O)O
 ```
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/6_biomedicine/molecular_search/search.png"  width = "600"/>
+<img src="../images/molecular_search/search.png"  width = "600"/>
 </div> 
 
 ## 5. 帮助信息
 - swagger接口文档:  
 http://localhost:8089/swagger-ui.html
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/6_biomedicine/molecular_search/swagger.png"  width = "500"/>
+<img src="../images/molecular_search/swagger.png"  width = "500"/>
 </div> 
 
 - 重置向量引擎(清空数据): 

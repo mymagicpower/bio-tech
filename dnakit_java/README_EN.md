@@ -2,7 +2,7 @@
 
 Deoxyribonucleic acid (DNA) is one of the four major biomolecules present in biological cells, which carries the genetic information necessary for the synthesis of RNA and proteins, and is an essential biomolecule for the development and normal operation of organisms. DNA sequence refers to the primary structure of a DNA molecule that carries genetic information, represented by a string of letters (A, T, C, G), either real or hypothetical. There are two DNA sequence determination methods: optical sequencing and chip sequencing.
 
-![img](https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/biology_sdks/dna.jpeg)
+![img](../images/biology_sdks/dna.jpeg)
 
 ### SDK Function
 

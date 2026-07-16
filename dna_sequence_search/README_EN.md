@@ -4,7 +4,7 @@
 This example provides DNA sequence search, supporting file uploads, using Spark Mlib to extract features, and subsequent retrieval based on the Milvus vector engine.
 
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/6_biomedicine/dna_sequence_search/arc.png"  width = "600"/>
+<img src="../images/dna_sequence_search/arc.png"  width = "600"/>
 </div> 
 
 ### Engine Features
@@ -30,7 +30,7 @@ During the training process of CountVectorizerModel, CountVectorizer selects the
 The model training and inference used Spark Mlib:
 
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/6_biomedicine/dna_sequence_search/spark_mlib.png"  width = "400"/>
+<img src="../images/dna_sequence_search/spark_mlib.png"  width = "400"/>
 </div> 
 
 - [Algorithm Detailed Introduction](http://spark.apache.org/docs/latest/ml-features.html#countvectorizer)
@@ -38,7 +38,7 @@ The model training and inference used Spark Mlib:
 
 #### Vector Engine Indexing Strategy
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/6_biomedicine/dna_sequence_search/milvus.png"  width = "600"/>
+<img src="../images/dna_sequence_search/milvus.png"  width = "600"/>
 </div> 
 
 
@@ -153,7 +153,7 @@ search:
   Wait for the file to be parsed, the model to be trained, the feature to be extracted, and the feature to be stored in the vector engine. You can see progress information through the console.
 
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/6_biomedicine/dna_sequence_search/storage.png"  width = "600"/>
+<img src="../images/dna_sequence_search/storage.png"  width = "600"/>
 </div> 
 
 - DNA sequence search
@@ -162,14 +162,14 @@ Enter text and click query to see the returned list sorted by similarity.
 ATGCCCCAACTAAATACTACCGTATGGCCCACCATAATTACCCCCATACTCCTTACACTATTCCTCATCACCCAACTAAAAATATTAAACACAAACTACCACCTACCTCCCTCACCAAAGCCCATAAAAATAAAAAATTATAACAAACCCTGAGAACCAAAATGAACGAAAATCTGTTCGCTTCATTCATTGCCCCCACAATCCTAG
 ```
 <div align="center">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/6_biomedicine/dna_sequence_search/search.png"  width = "600"/>
+<img src="../images/dna_sequence_search/search.png"  width = "600"/>
 </div> 
 
 ### 5. Help information
 
 - swagger interface document:
   http://localhost:8089/swagger-ui.html
-  ![Screenshot](https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/video_search/swagger.png)
+  ![Screenshot](../images/dna_sequence_search/swagger.png)
 
 - Initialize the vector engine (clear data):
 
