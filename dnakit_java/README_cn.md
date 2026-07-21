@@ -1,3 +1,7 @@
+<div align="right">
+  <a href="README_EN.md">🇬🇧 English</a>
+</div>
+
 ## DNA工具包
 脱氧核糖核酸（英文DeoxyriboNucleic Acid，缩写为DNA）是生物细胞内含有的四种生物大分子之一核酸的一种。
 DNA携带有合成RNA和蛋白质所必需的遗传信息，是生物体发育和正常运作必不可少的生物大分子。

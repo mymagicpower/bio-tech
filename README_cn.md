@@ -1,9 +1,11 @@
 
+<div align="right">
+  <a href="README.md">🇬🇧 English</a>
+</div>
+
 <div align="center">
   <a href="http://biocomputing.top/">网站首页</a>
 </div>  
-
-
 
 ## 生物计算
 包括化学分子工具包，DNA工具包，DNA序列搜索，分子搜索等等。

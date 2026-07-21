@@ -1,4 +1,8 @@
 
+<div align="right">
+  <a href="README_CN.md">🇨🇳 中文版</a>
+</div>
+
 ## Open source toolkit for chemical informatics
 
 RDKit is an open source toolkit for chemical informatics, based on 2D and 3D molecule operations for compounds, using machine learning methods for compound descriptor generation, fingerprint generation, compound structure similarity calculation, 2D and 3D molecule visualization, and more.
@@ -54,3 +58,9 @@ Add a line export LB_LIBRARY_PATH=<path_to_so> after /etc/profile
 To add a java.library.path in Mac, follow these steps:
 Add a line export JAVA_LIBRARY_PATH=<path_to_so> after /etc/profile
     
+### Website:
+[Website Link](http://www.aias.top/)
+
+### Git Address:   
+[Github Link](https://github.com/mymagicpower/AIAS)    
+[Gitee Link](https://gitee.com/mymagicpower/AIAS)

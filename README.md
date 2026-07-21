@@ -1,6 +1,10 @@
 
 
 
+<div align="right">
+  <a href="README_cn.md">🇨🇳 中文版</a>
+</div>
+
 ## Bioinformatics
 Includes chemical molecular toolkits, DNA toolkits, DNA sequence search, molecular search, and more.
 

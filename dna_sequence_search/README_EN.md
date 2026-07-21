@@ -1,4 +1,11 @@
 
+<div align="right">
+  <a href="README_CN.md">🇨🇳 中文版</a>
+</div>
+
+### Table of Contents:
+http://aias.top/
+
 ### DNA Sequence Search
 
 This example provides DNA sequence search, supporting file uploads, using Spark Mlib to extract features, and subsequent retrieval based on the Milvus vector engine.
@@ -10,9 +17,9 @@ This example provides DNA sequence search, supporting file uploads, using Spark 
 ### Engine Features
 
 - Underlying feature vector similarity search
-  -Millisecond-level search of billions of data on a single server
-  -Near real-time search, supporting distributed deployment
-  -The ability to insert, delete, search, and update data at any time
+- Millisecond-level search of billions of data on a single server
+- Near real-time search, supporting distributed deployment
+- The ability to insert, delete, search, and update data at any time
 
 ### DNA Background Introduction
 
@@ -182,3 +189,9 @@ me.aias.tools.MilvusInit.java
   [Milvus vector engine official website](https://milvus.io/)      
   [Milvus vector engine Github](https://github.com/milvus-io)
 
+### Website:
+[Website Link](http://www.aias.top/)
+
+### Git Address:   
+[Github Link](https://github.com/mymagicpower/AIAS)    
+[Gitee Link](https://gitee.com/mymagicpower/AIAS)

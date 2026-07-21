@@ -1,3 +1,7 @@
+<div align="right">
+  <a href="README_EN.md">🇬🇧 English</a>
+</div>
+
 ### 目录：
 http://aias.top/
 

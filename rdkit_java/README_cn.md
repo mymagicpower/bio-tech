@@ -1,3 +1,7 @@
+<div align="right">
+  <a href="README_EN.md">🇬🇧 English</a>
+</div>
+
 ## 化学信息学的开源工具包
 RDKit是一个用于化学信息学的开源工具包，基于对化合物2D和3D分子操作，利用机器学习方法进行化合物描述符生成，
 fingerprint生成，化合物结构相似性计算，2D和3D分子展示等。

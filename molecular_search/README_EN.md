@@ -1,4 +1,8 @@
 
+<div align="right">
+  <a href="README_CN.md">🇨🇳 中文版</a>
+</div>
+
 ### Molecular Search
 
 This example provides molecular search, supporting the upload of smi files, using RDKit to extract molecular features, and performing subsequent retrieval based on Milvus vector engine.
@@ -254,3 +258,10 @@ me.aias.tools.MilvusInit.java
     }
 
 ```
+
+### Website:
+[Website Link](http://www.aias.top/)
+
+### Git Address:   
+[Github Link](https://github.com/mymagicpower/AIAS)    
+[Gitee Link](https://gitee.com/mymagicpower/AIAS)

@@ -1,3 +1,7 @@
+<div align="right">
+  <a href="README_CN.md">🇨🇳 中文版</a>
+</div>
+
 ## DNA Toolkit
 
 Deoxyribonucleic acid (DNA) is one of the four major biomolecules present in biological cells, which carries the genetic information necessary for the synthesis of RNA and proteins, and is an essential biomolecule for the development and normal operation of organisms. DNA sequence refers to the primary structure of a DNA molecule that carries genetic information, represented by a string of letters (A, T, C, G), either real or hypothetical. There are two DNA sequence determination methods: optical sequencing and chip sequencing.
@@ -52,3 +56,10 @@ After a successful run, the command line should see the following information:
 
 ### Reference:
 http://spark.apache.org/docs/latest/ml-features.html#countvectorizer
+
+### Website:
+[Website Link](http://www.aias.top/)
+
+### Git Address:   
+[Github Link](https://github.com/mymagicpower/AIAS)    
+[Gitee Link](https://gitee.com/mymagicpower/AIAS)
